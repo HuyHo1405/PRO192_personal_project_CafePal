@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2">
+        <file>
+            <url>src/GUI/MenuController.java</url>
+            <bookmark id="2">
+                <name/>
+                <line>61</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/FA24/PRO192/CoffeShopApp/src/model/Menu.java</file>
+            <file>file:/D:/FA24/PRO192/CoffeShopApp/src/itemModel/Combo.java</file>
+            <file>file:/D:/FA24/PRO192/CoffeShopApp/src/util/IO.java</file>
+            <file>file:/D:/FA24/PRO192/CoffeShopApp/src/GUI/OptionManager.java</file>
+            <file>file:/D:/FA24/PRO192/CoffeShopApp/src/itemModel/Size.java</file>
+            <file>file:/D:/FA24/PRO192/CoffeShopApp/src/itemModel/Food.java</file>
+            <file>file:/D:/FA24/PRO192/CoffeShopApp/src/GUI/Main.java</file>
+            <file>file:/D:/FA24/PRO192/CoffeShopApp/src/orderModel/PurchasedItem.java</file>
+            <file>file:/D:/FA24/PRO192/CoffeShopApp/src/orderModel/OrderedList.java</file>
+        </group>
+    </open-files>
+</project-private>
