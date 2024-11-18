@@ -1,1 +1,1 @@
-# PRO192_OOP_personal_project
+# PRO192_OOP_personal_project_CafePal
